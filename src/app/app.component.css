@@ -45,6 +45,7 @@ mat-sidenav-container {
 }
 
 .name {
+    margin: 0;
     margin-top: 8px;
     font-weight: normal;
 }
